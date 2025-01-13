@@ -1,0 +1,6 @@
+streamlit
+opencv-python-headless
+tensorflow==2.12.0  # Specify a version compatible with DeepFace
+deepface
+numpy
+pillow
