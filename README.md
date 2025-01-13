@@ -13,7 +13,7 @@ Real-time facial recognition and emotion analysis project using transfer learnin
 
 1. Clone this repository:
 ```bash
-https://github.com/I-AdityaGoyal/FacialEmotionRecognition-RealTime.git
+git@github.com:mayankagarwal89/FacialRecoginition_EmotionAnalysis.git
 cd FacialRecognition-EmotionAnalysis
 ```
 2. Install the required dependencies:
